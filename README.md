@@ -65,7 +65,9 @@ app = graph.compile()
 
 ### 실제 출력 결과
 
-<img width="1168" height="328" alt="image" src="https://github.com/user-attachments/assets/1d4ac59d-d4a1-4cfd-b1f5-e775486342e7" />
+<img width="1335" height="505" alt="image" src="https://github.com/user-attachments/assets/53075093-dd2a-45fe-b054-f053bf74ac3a" />
+<img width="1367" height="234" alt="image" src="https://github.com/user-attachments/assets/2fa1f047-aa56-4923-8a32-6b79043376c2" />
+
 
 
 ## 7. 향후 개선 사항
